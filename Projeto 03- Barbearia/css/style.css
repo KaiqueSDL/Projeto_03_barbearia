@@ -3,11 +3,17 @@
     margin: 0;
 }
 
-/* Fonts */
+
 @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Poppins:wght@300&display=swap');
 
 
-/* background */
+
+
+
+
+
+
+
 
 #banner{
     background: linear-gradient(rgba(0,0,0,0.5),#009688), url(/img/banner.jpg);
